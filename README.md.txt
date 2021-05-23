@@ -1,0 +1,1 @@
+Repositório referente ao scrips SQL do módulo banco de dados da Devaria
